@@ -1,0 +1,12 @@
+# Build output
+*.hex
+*.elf
+*.bin
+build/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
