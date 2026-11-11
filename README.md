@@ -13,13 +13,6 @@
 
 ---
 
-## Demo
-
-![demo](media/demo.gif)
-> *Placeholder: Add a demo GIF or screenshot to `media/demo.gif` demonstrating the board plugged into an authorized computer with a focused blank text editor receiving the typed project summary.*
-
----
-
 ## Overview
 
 Modern operating systems implicitly trust Human Interface Devices such as USB keyboards: once connected, keystrokes are accepted immediately without requiring administrator consent or third-party drivers. Keystroke injection devices (commonly termed "Rubber Duckies") demonstrate the security implications of this unauthenticated trust model.
